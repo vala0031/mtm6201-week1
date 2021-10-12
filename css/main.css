@@ -1,0 +1,14 @@
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+img {
+    width: 100%;
+}
+
+.avatar {
+    max-width: 320px;
+    border-radius: 50%;
+}
